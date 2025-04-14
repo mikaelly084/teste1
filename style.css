@@ -7,18 +7,8 @@ div {
     border: rgb(58, 10, 230) 5px dotted;
 }
 
-.texto {
-    font-size: 50px;
-    text-align: center;
-}
+text{
 
-section p {
-    background-color: rgb(243, 150, 113);
+    color: brown;
 }
-
-#cabeçalho{
-    background-color: azure;
-    font-size: 100px;
-    width: 500px;
-    height: 500px;
 }
